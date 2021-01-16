@@ -1,0 +1,73 @@
+#shapesBox {
+    align-self: center;
+    margin: 10px 5px;
+    padding: 1%;
+    border: black solid 5px;
+    height: 25vh;
+    width: 90vw;
+}
+
+.purpleRectangle {
+    display: inline-block;
+    background-color: #8A2BE2;
+    height: 18vh;
+    width: 5vw;
+}
+
+.greenRectangle {
+    margin-left: 5vw;
+    display: inline-block;
+    height: 25vh;
+    width: 40vw;
+    background-color: #228B22;
+}
+
+.circle {
+    margin-left: 5vw;
+    display: inline-block;
+    margin-bottom: 6px;
+    width: 25%;
+    height: 90%;
+    border-radius: 50%;
+    background-color: #87CEEB;
+}
+
+main {
+    margin: 25px 5px;
+    padding: 1%;
+    border: black dotted 5px;
+    height: 35vh;
+    width: 90vw;
+}
+
+.yellowRectangle {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 40px;
+    background-color: #FFFACD;
+    height: 25vh;
+    width: 90%;
+    box-shadow: 10px 10px 10px black; 
+}
+
+footer {
+    height: 40vh;
+    width: 100%;
+}
+
+.outlineBox {
+    margin-left: 25%;
+    height: 35vh;
+    width: 50%;
+    border: gray solid 1px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+p {
+    letter-spacing: 0.25em;
+    text-align: center;
+    font-size: xx-large;
+    padding: 100px;
+    color: navy;
+    font-weight: 700;
+}
